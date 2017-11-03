@@ -4,6 +4,6 @@ Keep going after finding the first meeting, if you find an option that is longer
 Create a new stack to keep the numbers incremental instead of what even is going on in there.
 ### roz
 ```
-vector< vector<int> > myVector;
+vector<vector<uintmax_t>> 2dVector;
 ```
 Oh god.
